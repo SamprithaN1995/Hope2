@@ -30,15 +30,7 @@ public class Amazon1 {
 		//yar
 //trial making changes
 //made changes from the end 1
+//same as master branch,reporting to developer branch
 
-	//made changes from the end 2	
-<<<<<<< HEAD
-//final changes
-=======
-		//check for the branch in github
-//check for branch change again
-//cross check
->>>>>>> d736924b86530ffff14d295c7c9d7956ecc40985
-		}
 
 }
