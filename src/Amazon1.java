@@ -25,12 +25,7 @@ public class Amazon1 {
 		driver.findElement(By.className("nav-action-inner")).click();
 		
 		
-		//changes
-		//cool
-		//yar
-//trial making changes
-//made changes from the end 1
-//same as master
+//haah
 
 
 }

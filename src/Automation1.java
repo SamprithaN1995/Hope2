@@ -15,13 +15,7 @@ public class Automation1 {
 	
 	 
 	
-/* java.util.List<WebElement> allLinks = driver.findElements(By.xpath(" //input[@name='radioButton']"));
-		Iterator<WebElement> itr = allLinks.iterator();
-		while(itr.hasNext()) {
-			//driver.findElements(By.xpath(" //input[@name='radioButton']")).click();
-			itr.next().click();
-			
-*/			
+
 					
   
           //  driver.get("https://rahulshettyacademy.com/AutomationPractice/");
