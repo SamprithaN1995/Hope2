@@ -30,7 +30,7 @@ public class Amazon1 {
 		//yar
 //trial making changes
 //made changes from the end 1
-//same as master branch,reporting to developer branch
+//same as master
 
 
 }
