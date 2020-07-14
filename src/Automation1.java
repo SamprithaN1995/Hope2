@@ -58,7 +58,7 @@ public class Automation1 {
             	 
               }
      
-              driver.close();
+            
               
               //  System.out.println(driver.findElement(By.xpath("//legend[contains(text(),'Switch Window Example']")).getText());
                  
