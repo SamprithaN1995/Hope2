@@ -30,6 +30,7 @@ public class Amazon1 {
 		//yar
 //trial making changes
 //made changes from the end 1
+//made changes from end2
 		
 		}
 
