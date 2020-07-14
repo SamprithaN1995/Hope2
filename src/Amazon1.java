@@ -30,12 +30,7 @@ public class Amazon1 {
 		//yar
 //trial making changes
 //made changes from the end 1
+//reporting to developer branch
 
-	//made changes from the end 2	
-		//check for the branch in github
-//check for branch change again
-//cross check
-//final change1
-		}
 
 }
