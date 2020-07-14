@@ -68,7 +68,7 @@ public class Automation1 {
          //  System.out.println(obj.getText());
            
 //continuing my work
-    		
+    //thanks all
 	
 	
   }
